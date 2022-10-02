@@ -1,0 +1,9 @@
+Hawaiian Chicken        ;s;5
+Hawaiian Chicken        ;m;10
+Hawaiian Chicken        ;l;15
+Aloha Chicken           ;s;5
+Aloha Chicken           ;m;10
+Aloha Chicken           ;l;15
+Mushroom Chicken Delight;s;5
+Mushroom Chicken Delight;m;10
+Mushroom Chicken Delight;l;15
